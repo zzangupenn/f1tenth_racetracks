@@ -44,5 +44,10 @@
 42|DualLaneChange/waypoints/DualLaneChange_waypoints.csv|;|3|1|2|3|5
 43|rounded_rectangle/waypoints/rounded_rectangle.csv|,|1|0|1|-1|-1
 44|rounded_rectangle/waypoints/rounded_rectangle_waypoints.csv|;|3|1|2|3|5
-
-
+45|friction_map/DualLaneChange_/DualLaneChange_0.5/traj_race_cl.csv|;|3|1|2|3|5
+46|friction_map/DualLaneChange_/DualLaneChange_1.1/traj_race_cl.csv|;|3|1|2|3|5
+47|SaoPaulo/traj_race_cl.csv|;|3|1|2|3|5
+48|l_shape/waypoints/l_shape.csv|;|3|1|2|3|5
+49|l_shape/waypoints/l_shape_min.csv|;|3|1|2|3|5
+50|rounded_rectangle/waypoints/rounded_rectangle_movestart.csv|,|1|0|1|-1|-1
+51|map0.csv|,|1|0|1|-1|-1
