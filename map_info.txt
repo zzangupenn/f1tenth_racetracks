@@ -53,4 +53,4 @@
 51|gen_maps/map0.csv|,|1|0|1|-1|-1
 52|gen_maps/map1.csv|,|1|0|1|-1|-1
 53|gen_maps/map2.csv|,|1|0|1|-1|-1
-53|gen_maps_obs/map0.csv|,|1|0|1|-1|-1
+54|gen_maps_obs/map0.csv|,|1|0|1|-1|-1
