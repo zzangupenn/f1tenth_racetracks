@@ -50,4 +50,7 @@
 48|l_shape/waypoints/l_shape.csv|;|3|1|2|3|5
 49|l_shape/waypoints/l_shape_min.csv|;|3|1|2|3|5
 50|rounded_rectangle/waypoints/rounded_rectangle_movestart.csv|,|1|0|1|-1|-1
-51|map0.csv|,|1|0|1|-1|-1
+51|gen_maps/map0.csv|,|1|0|1|-1|-1
+52|gen_maps/map1.csv|,|1|0|1|-1|-1
+53|gen_maps/map2.csv|,|1|0|1|-1|-1
+53|gen_maps_obs/map0.csv|,|1|0|1|-1|-1
