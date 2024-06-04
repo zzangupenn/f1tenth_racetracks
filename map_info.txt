@@ -56,3 +56,5 @@
 54|gen_maps_obs/map0.csv|,|1|0|1|-1|-1
 55|custom1/waypoints/custom1_centerline.csv|,|0|0|1|-1|-1
 56|goggle/waypoints/goggle_centerline.csv|,|0|0|1|-1|-1
+57|l_shape_LMPC/waypoints/l_shape_centerline.csv|,|0|0|1|-1|-1
+58|slalom/waypoints/slalom_centerline.csv|,|0|0|1|-1|-1
